@@ -31,7 +31,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'Created By'
-global.author = 'Lixzy Botz'
+global.author = 'Kagura Botz'
 
 global.multiplier = 69 // The higher, The harder levelup
 
